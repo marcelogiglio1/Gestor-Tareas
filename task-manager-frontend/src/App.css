@@ -1,0 +1,15 @@
+
+.bg-light {
+  background-color: #f8f9fa !important;
+  color: #212529 !important;
+}
+
+.bg-dark {
+  background-color: #1b1e20 !important;
+  color: white !important;
+}
+
+.bg-high-contrast {
+  background-color: yellow !important;
+  color: black !important;
+}
